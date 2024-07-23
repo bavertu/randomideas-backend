@@ -21,9 +21,9 @@ packages/
 .node_repl_history
 
 # Environment variables
-# .env
-# .env.test
-# .env.production
+.env
+.env.test
+.env.production
 
 # Typescript cache
 *.tsbuildinfo
